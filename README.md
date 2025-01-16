@@ -33,18 +33,16 @@ A stereo looper implementation for the Daisy Seed platform with integrated choru
 * Pin 19: Wet/Dry Mix Control
 
 
-Requires DaisyToolchain and DaisySP library. 
 
 
+## Usage
 
-## Adjust loop parameters using knobs:
+* Adjust loop parameters using knobs:
   * Loop Start: Sets loop starting point
   * Loop Length: Controls loop duration
   * Pitch Shift: Adjusts playback speed and direction
   * Wet/Dry: Balances effect mix
-
-
-Press record button to start/stop recording
+* Press record button to start/stop recording
 
 ## Technical Specifications
 
@@ -60,7 +58,8 @@ Press record button to start/stop recording
 * daisysp.h
 * looper.h
 * chorus.h
-
+* Requires DaisyToolchain and DaisySP library.
+  
 ## Acknowledgments
 Special thanks to:
 
