@@ -3,10 +3,10 @@ A stereo looper implementation for the Daisy Seed platform with integrated choru
 
 # Features
 
-Stereo input/output processing
-15-second loop buffer per channel
-Variable playback speed (-2x to +2x) with reverse capability
-Wet/dry mix control
+-Stereo input/output processing
+-15-second loop buffer per channel
+-Variable playback speed (-2x to +2x) with reverse capability
+-Wet/dry mix control
 Stereo chorus effect with:
 
 Adjustable delay time (5-30ms)
