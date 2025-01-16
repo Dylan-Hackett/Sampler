@@ -1,4 +1,4 @@
-#Stereo Looper with Chorus Effect
+##Stereo Looper with Chorus Effect
 A stereo looper implementation for the Daisy Seed platform with integrated chorus effects.
 
 #Features
